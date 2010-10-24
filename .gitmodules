@@ -1,3 +1,0 @@
-[submodule "vendor/extensions/it_store"]
-	path = vendor/extensions/it_store
-	url = git@github.com:mpagalan/it_store.git
